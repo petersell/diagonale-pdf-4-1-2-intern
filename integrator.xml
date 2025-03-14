@@ -5,6 +5,6 @@
                 dita2pdf2"/>
   <target name="dita2print-pdf.init">
     <property name="customization.dir"
-          location="${diagonale-pdf-4-1-2-intern.dir}/cfg"/>
+          location="plugins/diagonale-pdf-4-1-2-intern/cfg"/>
    </target>
 </project>
